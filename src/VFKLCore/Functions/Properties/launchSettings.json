@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Functions": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DOTNET_ENVIRONMENT": "Development",
+        "ASPNET_ENVIRONMENT": "Development",
+        "NODE_ENV": "Development",
+        "AZURE_FUNCTIONS_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
